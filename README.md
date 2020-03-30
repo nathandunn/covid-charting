@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Other data: https://covid19.healthdata.org/projections
+
 ## Available Scripts
 
 In the project directory, you can run:
